@@ -38,6 +38,6 @@ Installation Guide
 6. There is a test file which I've tested my functions. You can run it by:
 ``npm run test``
       
-#####Thank you!
-#####Itay Eylon
+Thank you!
+<b>Itay Eylon</b>
 
